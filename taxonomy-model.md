@@ -29,4 +29,4 @@ The object model provides the structured data for the 5 types of artifacts along
 
 ![TOM](images/taxonomy-model.png)
 
-For a detailed overview of the model see [TTF - Technical Overview](presentations/TTF-Technical.pptx).
+For a detailed overview of the model see [TTF - Technical Overview](README.md).
