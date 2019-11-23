@@ -49,7 +49,7 @@ The taxonomy uses these terms for all tokens:
 - Token Template - describes a token based on its type and what capabilities or restrictions a token created from the template would have (i.e. Fractional Fungible Template). A template has two parts:
   - Template Formula - a set of reusable taxonomy components that, when combined, is used to classify and describe how to work with a token.
   - Template Definition - is derived from a formula, filling in the details to define a token that can be used to deploy as a class (i.e. Cryptocurrency Token Definition).
-- Token Class - is an deployed token from a Template. (i.e. Bitcoin created from the crypto-currency template).
+- Token Class - is a deployed token from a Template. (i.e. Bitcoin created from the crypto-currency template).
 - Token Instance - a single token in a particular Token Class. (i.e. satoshi balance in your crypto-currency wallet).
 
 ![DefinitionStructure](images/definition-structure.png)
