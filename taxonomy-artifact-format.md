@@ -48,4 +48,4 @@ option java_package = "org.tti.ttf.taxonomy.model.core";
 option java_multiple_files = true;
 ```
 
-[Artifacts](artifacts) are templates and samples to seed the initial set of artifacts.
+Artifacts are templates and samples to seed the initial set of artifacts.
